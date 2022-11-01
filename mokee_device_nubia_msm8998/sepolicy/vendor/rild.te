@@ -1,4 +1,0 @@
-#============= rild ==============
-allow rild vendor_file:file ioctl;
-
-set_prop(rild, system_radio_prop);
